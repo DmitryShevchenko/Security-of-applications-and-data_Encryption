@@ -1,0 +1,137 @@
+[
+  {
+    "Letter": "A",
+    "PositionInAlphabet": 0,
+    "EncryptionPosition": 6
+  },
+  {
+    "Letter": "B",
+    "PositionInAlphabet": 1,
+    "EncryptionPosition": 9
+  },
+  {
+    "Letter": "C",
+    "PositionInAlphabet": 2,
+    "EncryptionPosition": 20
+  },
+  {
+    "Letter": "D",
+    "PositionInAlphabet": 3,
+    "EncryptionPosition": 15
+  },
+  {
+    "Letter": "E",
+    "PositionInAlphabet": 4,
+    "EncryptionPosition": 11
+  },
+  {
+    "Letter": "F",
+    "PositionInAlphabet": 5,
+    "EncryptionPosition": 1
+  },
+  {
+    "Letter": "G",
+    "PositionInAlphabet": 6,
+    "EncryptionPosition": 13
+  },
+  {
+    "Letter": "H",
+    "PositionInAlphabet": 7,
+    "EncryptionPosition": 22
+  },
+  {
+    "Letter": "I",
+    "PositionInAlphabet": 8,
+    "EncryptionPosition": 26
+  },
+  {
+    "Letter": "J",
+    "PositionInAlphabet": 9,
+    "EncryptionPosition": 0
+  },
+  {
+    "Letter": "K",
+    "PositionInAlphabet": 10,
+    "EncryptionPosition": 5
+  },
+  {
+    "Letter": "L",
+    "PositionInAlphabet": 11,
+    "EncryptionPosition": 23
+  },
+  {
+    "Letter": "M",
+    "PositionInAlphabet": 12,
+    "EncryptionPosition": 18
+  },
+  {
+    "Letter": "N",
+    "PositionInAlphabet": 13,
+    "EncryptionPosition": 3
+  },
+  {
+    "Letter": "O",
+    "PositionInAlphabet": 14,
+    "EncryptionPosition": 24
+  },
+  {
+    "Letter": "P",
+    "PositionInAlphabet": 15,
+    "EncryptionPosition": 2
+  },
+  {
+    "Letter": "Q",
+    "PositionInAlphabet": 16,
+    "EncryptionPosition": 21
+  },
+  {
+    "Letter": "R",
+    "PositionInAlphabet": 17,
+    "EncryptionPosition": 19
+  },
+  {
+    "Letter": "S",
+    "PositionInAlphabet": 18,
+    "EncryptionPosition": 7
+  },
+  {
+    "Letter": "T",
+    "PositionInAlphabet": 19,
+    "EncryptionPosition": 25
+  },
+  {
+    "Letter": "U",
+    "PositionInAlphabet": 20,
+    "EncryptionPosition": 14
+  },
+  {
+    "Letter": "V",
+    "PositionInAlphabet": 21,
+    "EncryptionPosition": 4
+  },
+  {
+    "Letter": "W",
+    "PositionInAlphabet": 22,
+    "EncryptionPosition": 10
+  },
+  {
+    "Letter": "X",
+    "PositionInAlphabet": 23,
+    "EncryptionPosition": 8
+  },
+  {
+    "Letter": "Y",
+    "PositionInAlphabet": 24,
+    "EncryptionPosition": 12
+  },
+  {
+    "Letter": "Z",
+    "PositionInAlphabet": 25,
+    "EncryptionPosition": 16
+  },
+  {
+    "Letter": "_",
+    "PositionInAlphabet": 26,
+    "EncryptionPosition": 17
+  }
+]

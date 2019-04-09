@@ -1,0 +1,106 @@
+[
+  {
+    "Letter" : "A",
+    "Values" : [48,30,17,8,18,14,36,26]
+  },
+  {
+    "Letter" : "B",
+    "Values" : [33,21]
+  },
+  {
+    "Letter" : "C",
+    "Values" : [41,22,20]
+  },
+  {
+    "Letter" : "D",
+    "Values" : [7,5,29,4]
+  },
+  {
+    "Letter" : "E",
+    "Values" : [1,9,47,39,6,11,24,44,16,23,37,19]
+  },
+  {
+    "Letter" : "F",
+    "Values" : [45,28]
+  },
+  {
+    "Letter" : "G",
+    "Values" : [40,3]
+  },
+  {
+    "Letter" : "H",
+    "Values" : [31,15,27,38,35]
+  },
+  {
+    "Letter" : "I",
+    "Values" : [25,49,13,46,2,32]
+  },
+  {
+    "Letter" : "J",
+    "Values" : [42]
+  },
+  {
+    "Letter" : "K",
+    "Values" : [12]
+  },
+  {
+    "Letter" : "L",
+    "Values" : [34,10,0,43]
+  },
+  {
+    "Letter" : "M",
+    "Values" : [60,90]
+  },
+  {
+    "Letter" : "N",
+    "Values" : [92,80,57,85,99,91,88]
+  },
+  {
+    "Letter" : "O",
+    "Values" : [68,76,66,93,83,74,78,69]
+  },
+  {
+    "Letter" : "P",
+    "Values" : [86,56]
+  },
+  {
+    "Letter" : "Q",
+    "Values" : [98]
+  },
+  {
+    "Letter" : "R",
+    "Values" : [62,58,75,50,94,53]
+  },
+  {
+    "Letter" : "S",
+    "Values" : [82,95,81,67,89,59]
+  },
+  {
+    "Letter" : "T",
+    "Values" : [65,63,73,55,84,64,72,77,96]
+  },
+  {
+    "Letter" : "U",
+    "Values" : [70,54,79]
+  },
+  {
+    "Letter" : "V",
+    "Values" : [87]
+  },
+  {
+    "Letter" : "W",
+    "Values" : [52,97]
+  },
+  {
+    "Letter" : "X",
+    "Values" : [61]
+  },
+  {
+    "Letter" : "Y",
+    "Values" : [71]
+  },
+  {
+    "Letter" : "Z",
+    "Values" : [51]
+  }
+]
